@@ -2,7 +2,7 @@
 
 This project is a simpale Json server with some data.
 
-## Usage
+## Installation
 
 To use this server you should install Node Js, and use the NPM to install the package json-server globally by typing the following at the command prompt
 
@@ -10,7 +10,7 @@ To use this server you should install Node Js, and use the NPM to install the pa
 npm install json-server -g
 ```
 
-## Configuring the Server
+## Usage
 
 After cloning this project, move to the folder in your terminal window, and type the following to start the server
 
